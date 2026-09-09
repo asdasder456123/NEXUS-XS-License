@@ -1,15 +1,17 @@
 # Compliance Guide
 
-Projects using NOSL should:
+When distributing Software under NOSL:
 
-- Include a copy of the applicable NOSL license.
-- Preserve required copyright notices.
-- Preserve required license notices.
-- Clearly identify modifications when distributing modified versions.
-- Avoid implying endorsement by NΞXUS XS.
-- Respect NΞXUS XS trademarks and branding.
-- Follow all applicable terms of the LICENSE.
+- include the applicable license text;
+- preserve applicable copyright notices;
+- preserve applicable license notices;
+- identify material modifications;
+- provide Corresponding Source when required;
+- preserve relevant third-party license notices;
+- do not imply endorsement by NΞXUS XS;
+- do not represent modified NOSL text as an official NΞXUS XS
+  license version.
 
 The LICENSE file is authoritative.
 
-This guide is informational and does not replace the license.
+This document is informational and does not replace the LICENSE.

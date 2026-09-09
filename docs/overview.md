@@ -1,33 +1,38 @@
 # NΞXUS Open Software License
 
-## About
+## Overview
 
 The NΞXUS Open Software License (NOSL) is a software license created
 and maintained by NΞXUS XS.
 
-NOSL is designed to provide clear permissions for software use,
-study, modification, distribution, and commercial use.
+Version 1.0 Draft Revision 2 uses a weak-copyleft approach intended
+to preserve software freedoms while requiring distributed
+modifications to covered portions to remain available under NOSL.
 
-## Core Principles
+## Main Rights
 
-NOSL is intended to provide:
+NOSL permits:
 
-- Freedom to use the Software.
-- Freedom to study the Software.
-- Freedom to modify the Software.
-- Freedom to redistribute the Software.
-- Freedom to create and distribute modified versions.
-- Permission for commercial use.
-- Clear copyright and attribution requirements.
-- Patent protection for covered contributions.
+- software use;
+- study;
+- modification;
+- reproduction;
+- redistribution;
+- commercial use;
+- derivative works;
+- distribution of modified versions; and
+- covered patent rights.
 
-## License Steward
+## Important Boundary
 
-NΞXUS XS is the creator and license steward of NOSL.
+NOSL applies to material licensed under NOSL.
 
-## Important Status Notice
+Independent third-party software and dependencies remain governed by
+their own applicable licenses.
 
-NOSL 1.0 is currently a draft.
+## Status
 
-It must not be represented as OSI-approved unless and until the
-Open Source Initiative officially approves the license.
+NOSL 1.0 Draft Revision 2 is a development draft.
+
+It is not OSI-approved unless and until the Open Source Initiative
+officially approves it.
