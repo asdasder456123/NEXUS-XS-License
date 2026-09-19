@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.0-rc1
+
+- Promoted the project from Draft Revision 2 to Release Candidate 1.
+- Added formal review notes for the license project.
+- Documented the intended weak-copyleft model.
+- Documented the intended freedoms and distribution requirements.
+- Documented third-party component handling.
+- Documented patent and trademark scope.
+- Documented the project's relationship to existing licenses.
+- Added explicit legal-review status.
+- Added explicit OSI-review status.
+- No claim of OSI approval is made.
+
 ## 1.0.0-draft-revision-2
 
 - Reworked the initial NOSL draft.

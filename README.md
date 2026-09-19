@@ -1,6 +1,6 @@
 # NΞXUS Open Software License (NOSL)
 
-**Version 1.0 — Draft Revision 2**
+**Version 1.0 — Release Candidate 1**
 
 Created and maintained by **NΞXUS XS**.
 
@@ -37,7 +37,7 @@ because they interact with or use the Covered Work.
 ## Status
 
 - Version: 1.0
-- Revision: Draft Revision 2
+- Revision: Release Candidate 1
 - Status: Draft
 - License Steward: NΞXUS XS
 
