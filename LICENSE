@@ -1,128 +1,410 @@
 NΞXUS OPEN SOFTWARE LICENSE
-Version 1.0 — Draft
+Version 1.0 — Release Candidate 2
 
 Copyright (c) 2026 NΞXUS XS
 
+============================================================
 1. DEFINITIONS
+============================================================
 
 "License" means this NΞXUS Open Software License, Version 1.0.
 
-"Software" means the copyrighted work distributed under this License.
+"Software" means the copyrightable material distributed by a
+Copyright Holder under this License.
 
-"Source Code" means the preferred form of the Software for making modifications.
+"Source Code" means the preferred form of the Software for making
+modifications to it.
 
 "Object Code" means any form of the Software other than Source Code.
 
-"Copyright Holder" means the person or entity that owns the applicable copyright.
+"Copyright Holder" means each person or legal entity that owns
+copyright in material distributed under this License.
 
-"You" means any individual or legal entity exercising rights under this License.
+"Contributor" means a person or legal entity that intentionally
+submits a Contribution for inclusion in the Software.
 
-"Derivative Work" means a work based upon or incorporating the Software or a substantial portion of it.
+"Contribution" means original copyrightable material intentionally
+submitted by a Contributor for inclusion in the Software.
 
+"You" means any person or legal entity exercising rights granted
+by this License.
+
+"Covered Work" means the Software and any Modified Version of the
+Software.
+
+"Modified Version" means a Covered Work that contains material
+modifications to the Software.
+
+"Distribute" means to make a Covered Work available to another
+person or legal entity by any means.
+
+"Corresponding Source" means the complete Source Code and the
+scripts and configuration information reasonably required to build,
+install, and modify the applicable Covered Work, excluding
+components normally supplied with the operating system or other
+independent system components.
+
+============================================================
 2. COPYRIGHT GRANT
+============================================================
 
-Subject to the terms and conditions of this License, each Copyright Holder grants You a worldwide, non-exclusive, royalty-free copyright license to:
+Subject to the terms of this License, each Copyright Holder grants
+You a worldwide, non-exclusive, royalty-free copyright license to:
 
 - use the Software;
 - reproduce the Software;
 - study the Software;
 - modify the Software;
-- create Derivative Works;
-- distribute the original Software;
-- distribute modified versions;
-- sublicense the rights granted by this License; and
-- use the Software for any purpose, including commercial purposes.
+- create Modified Versions;
+- create derivative works;
+- compile the Software;
+- run the Software;
+- distribute the Software;
+- distribute Modified Versions; and
+- use the Software for commercial or non-commercial purposes.
 
+No royalty or fee is required solely for exercising the rights
+granted by this Section.
+
+============================================================
 3. SOURCE CODE
+============================================================
 
-When Source Code is made available under this License, recipients must retain access to that Source Code under the terms applicable to the Software.
+You may distribute the Software in Source Code or Object Code form.
 
-You may make modifications to the Source Code and distribute those modifications subject to this License.
+If You distribute Object Code of a Covered Work, You must provide
+Corresponding Source in a reasonable manner permitted by applicable
+law.
 
-4. REDISTRIBUTION
+The Corresponding Source must include the modifications to the
+Covered Work that are required to be provided under this License.
 
-You may reproduce and distribute copies of the Software, in Source Code or Object Code form, with or without modifications, provided that:
+This requirement does not apply to independent works that merely
+interoperate with, communicate with, or use the Covered Work and
+are not themselves Modified Versions.
 
-- applicable copyright notices are retained;
-- notices identifying this License are retained;
-- a copy of this License is provided with the Software; and
-- you do not remove or alter required attribution notices except where technically necessary.
+============================================================
+4. MODIFICATION AND WEAK COPYLEFT
+============================================================
 
-5. MODIFIED VERSIONS
+You may modify the Software for any purpose.
 
-You may distribute modified versions of the Software.
+If You distribute a Modified Version, the portions of that Modified
+Version that are derived from, based upon, or modify material
+originally distributed under this License must be made available
+under this License.
 
-Modified versions must clearly indicate that modifications have been made.
+You must:
 
-You must not represent a modified version as the original work of another Copyright Holder.
+1. identify material modifications;
+2. preserve applicable copyright notices;
+3. preserve applicable license notices; and
+4. provide the required Corresponding Source.
 
-6. DERIVATIVE WORKS
+This Section does not require an independent work to be licensed
+under this License merely because that work:
 
-You may create, use, publish, distribute, and commercially exploit Derivative Works, subject to the applicable terms of this License.
+- communicates with the Covered Work;
+- uses the Covered Work;
+- links to the Covered Work;
+- interoperates with the Covered Work; or
+- is distributed alongside the Covered Work.
 
-7. COMMERCIAL USE
+Whether a work constitutes a Modified Version may depend on
+applicable copyright law.
 
-Commercial use, commercial distribution, sale, hosting, support, consulting, and other commercial activities involving the Software are permitted.
+============================================================
+5. REDISTRIBUTION
+============================================================
 
-No royalty is required solely because You exercise rights granted by this License.
+You may distribute the Software and Modified Versions in Source
+Code or Object Code form.
 
-8. CONTRIBUTIONS
+When distributing a Covered Work, You must:
 
-Unless otherwise agreed in writing, contributions intentionally submitted for inclusion in the Software may be distributed under the same license terms applicable to the contributed work.
+- provide this License or an accessible copy of it;
+- preserve applicable copyright notices;
+- preserve applicable license notices;
+- identify material modifications; and
+- provide Corresponding Source when required by this License.
 
-9. PATENTS
+You may charge any price for copies, distribution, hosting,
+support, consulting, or other services involving the Software.
 
-Each contributor grants You a worldwide, non-exclusive, royalty-free patent license for patent claims necessarily infringed by their contribution alone or by the combination of their contribution with the Software to which the contribution was submitted.
+============================================================
+6. COMMERCIAL USE
+============================================================
 
-If You initiate patent litigation alleging that the Software or a contribution infringes a patent, the patent rights granted to You under this License may terminate as permitted by applicable law.
+Commercial use is expressly permitted.
 
-10. TRADEMARKS
+You may:
 
-This License does not grant permission to use trademarks, service marks, logos, or other branding of the Copyright Holder, except as reasonably necessary to describe the origin of the Software or as otherwise permitted by applicable law.
+- sell copies of the Software;
+- sell Modified Versions;
+- include the Software in commercial products;
+- provide paid hosting;
+- provide paid support;
+- provide consulting services; and
+- provide the Software as part of a commercial service.
 
-11. COPYRIGHT NOTICES
+This License does not require payment to NΞXUS XS solely because
+You exercise rights granted by this License.
 
-You must not remove existing copyright notices from copies of the Software that You distribute.
+============================================================
+7. MODIFIED VERSIONS
+============================================================
 
-You may add your own copyright notices for your modifications where appropriate.
+A Modified Version may be distributed under this License.
 
-12. NO WARRANTY
+A Modified Version must not be represented as an unmodified
+official release of the Software or as an official release
+maintained by NΞXUS XS.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+You may accurately describe the origin of Your work and state that
+Your work is based on or derived from Software distributed under
+this License.
 
-13. LIMITATION OF LIABILITY
+============================================================
+8. COPYRIGHT AND ATTRIBUTION
+============================================================
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR SHALL BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+You must preserve applicable copyright and license notices.
 
-14. TERMINATION
+You may add copyright notices for Your own modifications.
 
-If You materially violate this License, the rights granted to You under this License terminate to the extent permitted by applicable law.
+You may provide reasonable attribution information for Your project,
+provided that such information does not remove or obscure required
+notices.
 
-Rights properly granted to recipients who received the Software from You before termination are not automatically revoked solely because of your termination, provided those recipients are otherwise compliant with this License.
+This License does not grant any right to imply endorsement,
+sponsorship, certification, or partnership with NΞXUS XS.
 
-15. SEVERABILITY
+============================================================
+9. THIRD-PARTY COMPONENTS
+============================================================
 
-If any provision of this License is determined to be unenforceable, that provision shall be interpreted or limited to the minimum extent necessary, and the remaining provisions shall remain in effect.
+This License applies only to material distributed under this
+License.
 
-16. ENTIRE LICENSE
+Third-party software, libraries, dependencies, data, trademarks,
+and other components may be governed by separate licenses.
 
-This License states the terms under which the Software is licensed.
+Nothing in this License relicenses third-party material or grants
+rights that an applicable third-party license does not provide.
 
-Nothing in this License shall be interpreted as granting rights beyond those expressly granted herein.
+You are responsible for complying with applicable licenses for
+third-party components that You distribute.
 
-17. LICENSE VERSION
+============================================================
+10. CONTRIBUTIONS
+============================================================
+
+Unless You and the Copyright Holder expressly agree otherwise in
+writing, a Contribution intentionally submitted for inclusion in
+the Software is licensed under this License.
+
+Each Contributor represents, to the best of that Contributor's
+knowledge, that the Contributor has the necessary rights to submit
+the Contribution under this License.
+
+A Contributor does not grant rights to third-party material that
+the Contributor is not authorized to license.
+
+============================================================
+11. PATENT LICENSE
+============================================================
+
+Each Contributor grants You a worldwide, non-exclusive,
+royalty-free patent license under patent claims owned or controlled
+by that Contributor that are necessarily infringed by the
+Contributor's Contribution alone or by the combination of that
+Contribution with the Covered Work to which the Contribution was
+submitted.
+
+This patent license does not extend to patent claims infringed
+solely because of other modifications, combinations, or uses outside
+the scope of the Contribution.
+
+If You initiate patent litigation against any person or entity
+alleging that the Covered Work or a Contribution constitutes patent
+infringement, the patent rights granted to You under this Section
+terminate with respect to the Covered Work, to the extent permitted
+by applicable law.
+
+============================================================
+12. TRADEMARKS
+============================================================
+
+This License grants no rights to trademarks, service marks, trade
+names, logos, or other branding.
+
+The names "NΞXUS XS" and "NΞXUS Open Software License" identify the
+license steward and the license itself.
+
+You may use such names only as reasonably necessary to accurately
+describe the Software or its licensing, or as otherwise permitted
+by applicable law.
+
+============================================================
+13. NO ENDORSEMENT
+============================================================
+
+Using, modifying, distributing, or redistributing Software under
+this License does not imply endorsement, sponsorship, certification,
+approval, partnership, or affiliation with NΞXUS XS.
+
+No person may falsely represent a Modified Version as an official
+NΞXUS XS release.
+
+============================================================
+14. NO ADDITIONAL RESTRICTIONS
+============================================================
+
+You may not impose legal or technological restrictions that prevent
+recipients from exercising rights granted by this License.
+
+Nothing in this License is intended to restrict rights that You
+may independently have under applicable law.
+
+============================================================
+15. NO DISCRIMINATION
+============================================================
+
+This License does not restrict use based on identity, organization,
+nationality, location, profession, or field of endeavor.
+
+Commercial and non-commercial use are both permitted.
+
+============================================================
+16. LICENSE TEXT REUSE
+============================================================
+
+The text of this License may be copied and redistributed for the
+purpose of licensing Software under this License.
+
+You may include this License in repositories, documentation,
+distribution packages, and source archives where reasonably
+necessary to communicate the licensing terms.
+
+A modified version of the License text must not be presented as an
+official NΞXUS Open Software License version unless expressly
+designated as such by the license steward.
+
+============================================================
+17. ADDITIONAL PERMISSIONS
+============================================================
+
+A Copyright Holder may grant additional permissions for particular
+Software, provided that those permissions do not remove or weaken
+the rights granted by this License to other recipients.
+
+Additional permissions apply only where expressly granted.
+
+============================================================
+18. LICENSE COMPATIBILITY
+============================================================
+
+Nothing in this License grants rights to combine third-party
+components beyond the rights granted by their applicable licenses.
+
+Where another license independently grants additional rights, those
+rights may be exercised to the extent permitted by that license and
+applicable law.
+
+Each license governs the material to which it applies.
+
+============================================================
+19. TERMINATION
+============================================================
+
+Your rights under this License terminate automatically if You
+materially violate its terms.
+
+Termination does not automatically terminate licenses already
+granted to recipients who received the Covered Work from You,
+provided those recipients remain in compliance with this License.
+
+If You cease the violation and fully cure the material breach, Your
+rights are reinstated to the extent permitted by applicable law.
+
+Termination does not affect rights that cannot lawfully be
+terminated.
+
+============================================================
+20. NO WARRANTY
+============================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, TO
+THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+============================================================
+21. LIMITATION OF LIABILITY
+============================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NO COPYRIGHT
+HOLDER, CONTRIBUTOR, OR OTHER PARTY WHO MODIFIES OR DISTRIBUTES THE
+SOFTWARE UNDER THIS LICENSE SHALL BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES,
+OR OTHER LIABILITY ARISING FROM OR RELATING TO THE SOFTWARE OR ITS
+USE, INCLUDING LOSS OF DATA, PROFITS, BUSINESS, OR OTHER ECONOMIC
+LOSS.
+
+============================================================
+22. SEVERABILITY
+============================================================
+
+If any provision of this License is determined to be invalid or
+unenforceable, that provision shall be limited or interpreted to
+the minimum extent necessary to make it enforceable where possible.
+
+The remaining provisions remain in effect to the maximum extent
+permitted by applicable law.
+
+============================================================
+23. ENTIRE LICENSE
+============================================================
+
+This License constitutes the complete terms governing the rights
+granted for the Covered Work under this License.
+
+Nothing in this License grants rights beyond those expressly
+granted.
+
+============================================================
+24. NO WAIVER
+============================================================
+
+Failure to enforce any provision of this License does not
+constitute a waiver of that provision or of any other provision.
+
+============================================================
+25. LICENSE VERSIONS
+============================================================
 
 This document is Version 1.0 of the NΞXUS Open Software License.
 
-NΞXUS XS may publish future versions of this License.
+Future versions may be published by the license steward.
 
-18. STATUS
+Software distributed under a particular version remains governed by
+that version unless the applicable licensing terms expressly provide
+otherwise.
 
-This is a draft license under development by NΞXUS XS.
+============================================================
+26. LICENSE STATUS
+============================================================
 
-NΞXUS Open Software License is not OSI-approved unless and until the Open Source Initiative officially approves it.
+NΞXUS Open Software License Version 1.0 is a Release Candidate.
 
----
+It is not OSI-approved unless and until the Open Source Initiative
+officially approves it.
+
+No person may claim OSI approval, certification, or endorsement for
+this License unless such approval has actually been granted and can
+be verified through an official OSI publication.
+
+============================================================
 
 NΞXUS XS
-Creator and License Steward
+License Steward
