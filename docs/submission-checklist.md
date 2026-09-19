@@ -57,4 +57,4 @@ process and subsequent decision by OSI.
 
 Current development state:
 
-NOSL 1.0 — Release Candidate 2
+NOSL 1.0 — Final Candidate

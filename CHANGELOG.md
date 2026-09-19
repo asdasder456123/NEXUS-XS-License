@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0-final-candidate
+
+- Promoted NOSL 1.0 to Final Candidate status for external review.
+- Finalized weak-copyleft, source-distribution, contribution, and patent provisions.
+- Clarified license text reuse, termination cure, and OSI-status language.
+- Synchronized repository documentation with the Final Candidate status.
+
 ## 1.0.0-rc1
 
 - Promoted the project from Draft Revision 2 to Release Candidate 1.
