@@ -29,11 +29,10 @@ submitted by a Contributor for inclusion in the Software.
 "You" means any person or legal entity exercising rights granted
 by this License.
 
-"Covered Work" means the Software and any Modified Version of the
-Software.
+"Modified Version" means a work based on the Software that contains
+material modifications to the Software.
 
-"Modified Version" means a Covered Work that contains material
-modifications to the Software.
+"Covered Work" means the Software or a Modified Version.
 
 "Distribute" means to make a Covered Work available to another
 person or legal entity by any means.
@@ -72,12 +71,13 @@ granted by this Section.
 
 You may distribute the Software in Source Code or Object Code form.
 
-If You distribute Object Code of a Covered Work, You must provide
-Corresponding Source in a reasonable manner permitted by applicable
-law.
+If You distribute Object Code of a Covered Work, You must make the
+Corresponding Source available to recipients in a reasonable and
+accessible manner, subject to applicable law.
 
-The Corresponding Source must include the modifications to the
-Covered Work that are required to be provided under this License.
+The Corresponding Source must contain the Source Code of the
+Covered Work, including modifications that are required to be
+provided under this License.
 
 This requirement does not apply to independent works that merely
 interoperate with, communicate with, or use the Covered Work and
@@ -90,9 +90,9 @@ are not themselves Modified Versions.
 You may modify the Software for any purpose.
 
 If You distribute a Modified Version, the portions of that Modified
-Version that are derived from, based upon, or modify material
-originally distributed under this License must be made available
-under this License.
+Version that contain or are derived from material originally
+distributed under this License must be made available under this
+License.
 
 You must:
 
@@ -101,8 +101,7 @@ You must:
 3. preserve applicable license notices; and
 4. provide the required Corresponding Source.
 
-This Section does not require an independent work to be licensed
-under this License merely because that work:
+An independent work is not a Modified Version merely because it:
 
 - communicates with the Covered Work;
 - uses the Covered Work;
@@ -110,8 +109,10 @@ under this License merely because that work:
 - interoperates with the Covered Work; or
 - is distributed alongside the Covered Work.
 
-Whether a work constitutes a Modified Version may depend on
-applicable copyright law.
+A work remains subject to this Section only to the extent that it
+contains material derived from, or modifications of, the Software.
+The determination of whether material is a Modified Version may
+depend on applicable copyright law.
 
 ============================================================
 5. REDISTRIBUTION
@@ -203,6 +204,11 @@ Unless You and the Copyright Holder expressly agree otherwise in
 writing, a Contribution intentionally submitted for inclusion in
 the Software is licensed under this License.
 
+A submission is not a Contribution merely because it is an issue
+report, feature request, discussion, or other communication that
+does not intentionally submit copyrightable material for inclusion
+in the Software.
+
 Each Contributor represents, to the best of that Contributor's
 knowledge, that the Contributor has the necessary rights to submit
 the Contribution under this License.
@@ -227,9 +233,9 @@ the scope of the Contribution.
 
 If You initiate patent litigation against any person or entity
 alleging that the Covered Work or a Contribution constitutes patent
-infringement, the patent rights granted to You under this Section
-terminate with respect to the Covered Work, to the extent permitted
-by applicable law.
+infringement, the patent license granted to You under this Section
+terminates as of the date the litigation is initiated, to the extent
+permitted by applicable law.
 
 ============================================================
 12. TRADEMARKS
@@ -286,9 +292,15 @@ You may include this License in repositories, documentation,
 distribution packages, and source archives where reasonably
 necessary to communicate the licensing terms.
 
-A modified version of the License text must not be presented as an
-official NΞXUS Open Software License version unless expressly
-designated as such by the license steward.
+A modified version of the License text must not be represented as
+an official version of the NΞXUS Open Software License or as issued
+by the license steward unless it has been expressly designated as
+such by the license steward.
+
+This provision does not prohibit You from creating, publishing, or
+using a different license based on or inspired by this text, provided
+that You do not falsely represent that license as an official
+NΞXUS Open Software License version.
 
 ============================================================
 17. ADDITIONAL PERMISSIONS
@@ -324,8 +336,9 @@ Termination does not automatically terminate licenses already
 granted to recipients who received the Covered Work from You,
 provided those recipients remain in compliance with this License.
 
-If You cease the violation and fully cure the material breach, Your
-rights are reinstated to the extent permitted by applicable law.
+If You cease the violation and cure the material breach, Your rights
+are reinstated prospectively from the date the breach is cured, to
+the extent permitted by applicable law.
 
 Termination does not affect rights that cannot lawfully be
 terminated.
@@ -395,10 +408,11 @@ otherwise.
 26. LICENSE STATUS
 ============================================================
 
-NΞXUS Open Software License Version 1.0 is a Release Candidate.
+NΞXUS Open Software License Version 1.0 is the Final Candidate
+version prepared for external review.
 
-It is not OSI-approved unless and until the Open Source Initiative
-officially approves it.
+This License is not OSI-approved unless and until the Open Source
+Initiative officially approves it.
 
 No person may claim OSI approval, certification, or endorsement for
 this License unless such approval has actually been granted and can
